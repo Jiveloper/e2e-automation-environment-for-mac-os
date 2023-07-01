@@ -6,5 +6,5 @@ Homebrew와 Shell Script를 사용하여 맥(Mac) E2E Automation 개발 환경�
 2. `./install.sh`
 
 ### 참고 자료
-- [웹 모바일 테스트 자동화를 위한 WebdriverIO V8 Hands On-자동화 개발 환경 자동 세팅을 위한 쉘스크립트](https://wikidocs.net/edit/page/204294)
+- [웹 모바일 테스트 자동화를 위한 WebdriverIO V8 Hands On-자동화 개발 환경 자동 세팅을 위한 쉘스크립트](https://wikidocs.net/204294)
 
